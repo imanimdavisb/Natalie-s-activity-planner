@@ -1,2 +1,20 @@
-# Natalie-s-activity-planner
-Activities for my 2 year old toddler Natalie based on her mood and the weather.
+# Natalie's Activity Planner
+
+A beginner Python project that suggests activities for toddlers based on their mood and the weather.
+
+## Why I Built This
+
+As a father of a 2-year-old daughter named Natalie, I wanted to create a simple program that helps generate activity ideas based on how she's feeling and the weather outside.
+
+## Features
+
+- Mood-based activity suggestions
+- Weather-based recommendations
+- Beginner-friendly Python code
+
+## Skills Used
+
+- Python
+- User Input
+- Conditional Logic
+- Problem Solving
