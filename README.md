@@ -1,4 +1,8 @@
-# Natalie's Activity Planner
+# Natalie D Activity Planner
+
+## Demo
+
+![Program Demo](natalie_d_activity_planner.png)
 
 A beginner Python project that suggests activities for toddlers based on their mood and the weather.
 
